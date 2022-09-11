@@ -10,7 +10,7 @@ This the RTL diagram for the datapath module:
 <br />
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/82693292/189511169-f90daddf-94aa-4eef-b58d-23a18067168a.png" width="1000" height="600"/>
+    <img src="https://user-images.githubusercontent.com/82693292/189511169-f90daddf-94aa-4eef-b58d-23a18067168a.png" width="900" height="600"/>
   </kbd>
 </p>
 
