@@ -3,7 +3,10 @@
 This repo contains all the source code and relevant files for my MIPS Uniprocessor project. 
 I worked on this for a computer architecture lab at Purdue University in Spring 2022.
 
-This the RTL diagram for the datapth module:
+First, I designed the RTL diagram for the datapath module to visualize how the instructions are fed through the machine
+
+
+This the RTL diagram for the datapath module:
 <br />
 <p align="center">
   <kbd>
