@@ -15,7 +15,7 @@ Overall System Diagram:
 <br />
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/82693292/189511969-9eac9e14-e69c-4752-9525-9e3c57b6aaef.jpg" width="320" height="620"/>
+    <img src="https://user-images.githubusercontent.com/82693292/189511969-9eac9e14-e69c-4752-9525-9e3c57b6aaef.jpg" width="160" height="310"/>
   </kbd>
 </p>
 
@@ -24,7 +24,7 @@ Datapath RTL Diagram:
 <br />
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/82693292/189511169-f90daddf-94aa-4eef-b58d-23a18067168a.png" width="1000" height="750"/>
+    <img src="https://user-images.githubusercontent.com/82693292/189511169-f90daddf-94aa-4eef-b58d-23a18067168a.png" width="800" height="600"/>
   </kbd>
 </p>
 
