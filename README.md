@@ -7,7 +7,7 @@ Top Level System Diagram:
 <br />
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/82693292/189511969-9eac9e14-e69c-4752-9525-9e3c57b6aaef.jpg" width="1000" height="750"/>
+    <img src="https://user-images.githubusercontent.com/82693292/189511969-9eac9e14-e69c-4752-9525-9e3c57b6aaef.jpg" width="640" height="1240"/>
   </kbd>
 </p>
 
