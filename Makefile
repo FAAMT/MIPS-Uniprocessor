@@ -1,12 +1,11 @@
-# Eric Villasenor
-# evillase@gmail.com
-#
-# Makefile for system verilog or vhdl designs.
-#
-# you DON'T TOUCH THIS FILE!!!
-# I jest, you can mess with SIMTIME.
-# AND THAT IS IT!
-#
+#////////////////////////////////////////////#
+#// Created:     Jan-May 2022              //#
+#// Author:      Fahad Tajiki              //#
+#// Email:       ftajiki@purdue.edu        //#
+#//                                        //# 
+#// This is the makefile, which allows us  //#
+#// to configure the simulation settings.  //#
+#////////////////////////////////////////////#
 
 # list of grid hosts
 GRIDHOSTS = ecegrid-lnx
